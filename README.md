@@ -20,4 +20,4 @@
 - As a self-motivated learner, I'm constantly exploring new technologies and methodologies to stay ahead in the rapidly evolving tech landscape, particularly in the context of manufacturing and ERP systems.
 
 ### 📫 Reach Out:
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/justinclack) or send an email at [Your-Email](mailto:jclack2@gmail.com).
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/justinclack) or send an email at [Email](mailto:jclack2@gmail.com).
