@@ -66,7 +66,7 @@ This GitHub contains:
 
 ## Connect
 
-- [LinkedIn](LINKEDIN_URL_HERE)
-- Email: EMAIL_ADDRESS_HERE
+- [LinkedIn](https://www.linkedin.com/in/justinclack/)
+- Email: jclack2@gmail.com
 
 If you’re working on ERP, manufacturing systems, or integrations and enjoy solving unglamorous problems correctly, we’ll probably get along.
